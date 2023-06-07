@@ -1,0 +1,16 @@
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Logging.exe.config
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Logging.exe
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Logging.pdb
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Serilog.dll
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Serilog.xml
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\obj\x64\Debug\Logging.csproj.AssemblyReference.cache
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\obj\x64\Debug\Logging.csproj.SuggestedBindingRedirects.cache
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\obj\x64\Debug\Logging.csproj.CoreCompileInputs.cache
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\obj\x64\Debug\Logging.csproj.CopyComplete
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\obj\x64\Debug\Logging.exe
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\obj\x64\Debug\Logging.pdb
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Serilog.Sinks.Console.dll
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Serilog.Sinks.File.dll
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Serilog.Sinks.Console.xml
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Serilog.Sinks.File.pdb
+C:\Users\jprochazka\Documents\GitHub\Utils\Utils\Utils\Logging\bin\x64\Debug\Serilog.Sinks.File.xml
